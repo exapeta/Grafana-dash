@@ -1,0 +1,3 @@
+GRAFANA
+
+Grafana is an open source analytics and visualisation web app. This Grafana dashboard is from my homelab server that I use for running various services. Having utilised Grafana for work purposes, I found it very useful for diagnosing and monitoring systems, so I implemented it on my Linux server. To do this, I used Prometheus,  an open source monitoring and alerting toolkit originally built at SoundCloud. After connecting Prometheus to my Grafana instance, I created various system monitors which track everything from IO usage, through to hardware temperatures.
